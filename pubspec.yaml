@@ -27,4 +27,7 @@ flutter:
   uses-material-design: true
 
   assets:
-    - assets/icons/     # иконки и асеты
+    - assets/icons/ 
+    - assets/json/places.json 
+    - assets/icons/bottom_navigation_w/   # иконки и асеты
+    - assets/icons/bottom_navigation_w/Icon/
